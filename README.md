@@ -1,5 +1,5 @@
 # sf_rental_analysis
-An analysis  of the housing rental market data for San Francisco, complete with professionally styled and formatted interactive visualizations using hvPlot and GeoViews. Data is used from "sfo_neighborhood_census_data.csv" located in the Resource folder of this repository. This project will focus on the following tasks:
+An analysis  of the housing rental market data for San Francisco, complete with professionally styled and formatted interactive visualizations using hvPlot and GeoViews. Data is used from `"sfo_neighborhood_census_data.csv"` located in the Resource folder of this repository. This project will focus on the following tasks:
   + Calculate and plot the housing units per year. 
   + Calculate and plot the avergae prices per square foot.
   + Compare the average prices by neighborhood.
@@ -91,7 +91,7 @@ Line Plot (using hvPlot) of Average Sales Prices per Square Foot by Neighborhood
 
 ### Compose a Data Story
 
-Using the interactive visualizations with hvPlot and GeoViews, we can note the trend in rental income growth compared to the trend in sales prices during years 2010 to 2016. This trend holds true for most neighborhood across San Francisco. However, there are investment opportunities that exist for neighborhoods with high gross rent and a relatively low sales price per square foot. See 'san_francisco_housing_analysis.ipynb' for the full analysis.   
+Using the interactive visualizations with hvPlot and GeoViews, we can note the trend in rental income growth compared to the trend in sales prices during years 2010 to 2016. This trend holds true for most neighborhood across San Francisco. However, there are investment opportunities that exist for neighborhoods with high gross rent and a relatively low sales price per square foot. See `'san_francisco_housing_analysis.ipynb'` for the full analysis.   
 
 ---
 
